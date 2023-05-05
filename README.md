@@ -1,1 +1,3 @@
 # SingularityGPT
+## AutoGPT on steroids
+
