@@ -1,3 +1,3 @@
 # SingularityGPT
-## AutoGPT on steroids
+## [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) on steroids
 
